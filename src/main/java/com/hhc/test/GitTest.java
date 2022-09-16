@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("two update");
         System.out.println("third update");
         System.out.println("hot-fix  update on master two");
+        System.out.println("hot-fix2  update on master hot-fix  update");
     }
 }
