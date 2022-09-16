@@ -8,5 +8,6 @@ public class GitTest {
     public static void main(String[] args) {
         System.out.println("first commit");
         System.out.println("two update");
+        System.out.println("third update");
     }
 }
