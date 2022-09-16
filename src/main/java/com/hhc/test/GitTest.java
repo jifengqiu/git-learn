@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("hot-fix  update on master two");
         System.out.println("hot-fix2  update on master hot-fix  update");
         System.out.println("push commit");
+        System.out.println("pull test");
     }
 }
